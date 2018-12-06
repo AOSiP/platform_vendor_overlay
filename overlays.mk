@@ -4,6 +4,10 @@ DEVICE_PACKAGE_OVERLAYS += vendor/overlay/common
 # Allow overlays to be excluded from enforcing RRO
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlay/common
 
+# Custom Doze
+PRODUCT_PACKAGES += \
+    CustomDoze
+
 # Extra packages
 PRODUCT_PACKAGES += \
     AOSiPOverlayStub \
