@@ -17,5 +17,21 @@
   NOTE: You might also want to edit: core/res/res/values-night/*.xml
   -->
 <resources>
-    <color name="biometric_dialog_accent">#ff8ab4f8</color>
+
+    <!-- The color of the material notification background -->
+    <color name="notification_material_background_color">#ff202125</color>
+
+    <!-- The color of the legacy notifications with customs backgrounds (gingerbread and lollipop.)
+    It's fine to override this color since at that point the shade was dark. -->
+    <color name="notification_legacy_background_color">#ff202125</color>
+
+    <!-- The color of the background in the top part of QSCustomizer -->
+    <color name="qs_customize_background">#ff202125</color>
+
+    <!-- The color of the background in the bottom part of QSCustomizer -->
+    <color name="qs_customize_decoration">#ff1c1d20</color>
+
+    <!-- The color of the material notification background when dimmed -->
+    <color name="notification_material_background_dimmed_color">#FF202125</color>
+
 </resources>
