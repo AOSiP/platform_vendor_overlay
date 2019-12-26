@@ -13,23 +13,23 @@ PRODUCT_PACKAGES += \
     AccentColorSandOverlay \
     AccentColorSpaceOverlay \
     AccentColorTangerineOverlay \
-    Amber \
-    Blue \
-    BlueGrey \
-    Brown \
-    Cyan \
-    DeepOrange \
-    DeepPurple \
-    Green \
-    Grey \
-    Indigo \
-    LightBlue \
-    LightGreen \
-    Lime \
-    OhSoOrange \
-    Orange \
-    Pink \
-    Purple \
-    Red \
-    Teal \
-    Yellow
+    AccentColorAmberOverlay \
+    AccentColorBlueOverlay \
+    AccentColorBlueGreyOverlay \
+    AccentColorBrownOverlay \
+    AccentColorCyanOverlay \
+    AccentColorDeepOrangeOverlay \
+    AccentColorDeepPurpleOverlay \
+    AccentColorGreenOverlay \
+    AccentColorGreyOverlay \
+    AccentColorIndigoOverlay \
+    AccentColorLightBlueOverlay \
+    AccentColorLightGreenOverlay \
+    AccentColorLimeOverlay \
+    AccentColorOhSoOrangeOverlay \
+    AccentColorOrangeOverlay \
+    AccentColorPinkOverlay \
+    AccentColorPurpleOverlay \
+    AccentColorRedOverlay \
+    AccentColorTealOverlay \
+    AccentColorYellowOverlay
