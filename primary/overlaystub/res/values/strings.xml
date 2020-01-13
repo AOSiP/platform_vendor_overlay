@@ -25,27 +25,17 @@
     <string name="theme_wallpaper_attribution_default">Meh</string>
 
     <!-- Values to declare accents, there aren't themes. -->
-    <string name="theme_name_electrigreen">ElectriGreen</string>
-    <string name="theme_title_electrigreen">@string/theme_name_electrigreen</string>
-    <string name="theme_overlay_color_electrigreen">com.accents.Mint</string>
-    <string name="theme_overlay_font_electrigreen">com.android.theme.font.arvolato</string>
-    <string name="theme_overlay_icon_android_electrigreen">com.android.theme.icon_pack.filled.android</string>
-    <string name="theme_overlay_icon_launcher_electrigreen">com.android.theme.icon_pack.filled.launcher</string>
-    <string name="theme_overlay_icon_settings_electrigreen">com.android.theme.icon_pack.filled.settings</string>
-    <string name="theme_overlay_icon_sysui_electrigreen">com.android.theme.icon_pack.filled.systemui</string>
-    <string name="theme_overlay_shape_electrigreen">com.android.theme.icon.roundedrect</string>
-    <string name="theme_wallpaper_title_electrigreen">Neon Green StatiX Wallpaper</string>
-    <string name="theme_wallpaper_attribution_electrigreen">edited by MCIJ7</string>
-
-    <string name="theme_name_throwback">Throwback Orange</string>
-    <string name="theme_title_throwback">@string/theme_name_throwback</string>
-    <string name="theme_overlay_color_throwback">com.accents.orange</string>
-    <string name="theme_overlay_font_throwback">com.android.theme.font.rubikrubik</string>
-    <string name="theme_overlay_icon_android_throwback">com.android.theme.icon_pack.circular.android</string>
-    <string name="theme_overlay_icon_launcher_throwback">com.android.theme.icon_pack.circular.launcher</string>
-    <string name="theme_overlay_icon_settings_throwback">com.android.theme.icon_pack.circular.settings</string>
-    <string name="theme_overlay_icon_sysui_throwback">com.android.theme.icon_pack.circular.systemui</string>
-    <string name="theme_wallpaper_title_throwback">Original AOSiP Wallpaper</string>
-    <string name="theme_wallpaper_attribution_throwback">Meh</string>
+    <string name="theme_name_kronicgreen">KronicGreen</string>
+    <string name="theme_title_kronicgreen">@string/theme_name_kronicgreen</string>
+    <string name="theme_overlay_color_kronicgreen">com.accents.aospagreen</string>
+    <string name="theme_overlay_font_kronicgreen">com.android.theme.font.googlesans</string>
+    <string name="theme_overlay_primary_kronicgreen">com.android.theme.color.primary.aosipocean</string>
+    <string name="theme_overlay_icon_android_kronicgreen">com.android.theme.icon_pack.circular.android</string>
+    <string name="theme_overlay_icon_launcher_kronicgreen">com.android.theme.icon_pack.circular.launcher</string>
+    <string name="theme_overlay_icon_settings_kronicgreen">com.android.theme.icon_pack.circular.settings</string>
+    <string name="theme_overlay_icon_sysui_kronicgreen">com.android.theme.icon_pack.circular.systemui</string>
+    <string name="theme_overlay_shape_kronicgreen">com.android.theme.icon.squircle</string>
+    <string name="theme_wallpaper_title_kronicgreen">Kronic Bomb</string>
+    <string name="theme_wallpaper_attribution_kronicgreen">AOSiP</string>
 
 </resources>
