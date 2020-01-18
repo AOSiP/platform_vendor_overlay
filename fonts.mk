@@ -7,7 +7,9 @@ PRODUCT_PACKAGES += \
     FontLGSmartGothicSourceOverlay \
     FontRosemarySourceOverlay \
     FontSonySketchSourceOverlay \
-    FontGoogleSansSourceOverlay
+    FontGoogleSansSourceOverlay \
+    FontOneplusSlateSource \
+    FontSamsungOneSourceOverlay
 
 
 PRODUCT_COPY_FILES += \
@@ -20,4 +22,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/GoogleSans-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Italic.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Medium.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf
+    $(LOCAL_PATH)/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
+    $(LOCAL_PATH)/prebuilt/SamsungOne.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SamsungOne.ttf \
+    $(LOCAL_PATH)/prebuilt/SlateFromOP-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Light.ttf \
+    $(LOCAL_PATH)/prebuilt/SlateFromOP-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Regular.ttf
