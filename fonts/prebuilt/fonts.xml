@@ -200,6 +200,26 @@
     <alias name="fantasy" to="firasans" />
     <alias name="ITC Stone Serif" to="firasans" />
 
+    <family name="ubuntu">
+        <font weight="400" style="normal">Ubuntu-Regular.ttf</font>
+        <font weight="500" style="normal">Ubuntu-Medium.ttf</font>
+        <font weight="500" style="italic">Ubuntu-MediumItalic.ttf</font>
+        <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
+        <font weight="700" style="italic">Ubuntu-BoldItalic.ttf</font>
+    </family>
+
+    <alias name="ubuntu-medium" to="ubuntu" weight="500" />
+    <alias name="ubuntu-semi-bold" to="ubuntu" weight="600" />
+    <alias name="ubuntu-bold" to="ubuntu" weight="700" />
+    <alias name="times" to="ubuntu" />
+    <alias name="times new roman" to="ubuntu" />
+    <alias name="palatino" to="ubuntu" />
+    <alias name="georgia" to="ubuntu" />
+    <alias name="baskerville" to="ubuntu" />
+    <alias name="goudy" to="ubuntu" />
+    <alias name="fantasy" to="ubuntu" />
+    <alias name="ITC Stone Serif" to="ubuntu" />
+
     <family name="monospace">
         <font weight="400" style="normal">DroidSansMono.ttf</font>
     </family>
