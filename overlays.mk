@@ -4,6 +4,9 @@ DEVICE_PACKAGE_OVERLAYS += vendor/overlay/common
 # Allow overlays to be excluded from enforcing RRO
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlay/common
 
+ # AOSiP Device declaration
+aosip_device := $(patsubst %f,%,$(subst aosip_,,$(TARGET_PRODUCT)))
+
 # Extra packages
 PRODUCT_PACKAGES += \
     AOSiPOverlayStub \
