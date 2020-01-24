@@ -12,4 +12,6 @@
     <color name="primary_material_settings">#ff202125</color>
     <color name="primary_material_settings_light">@android:color/white</color>
 
+    <color name="du_themes_qs_inactive_color">#FFd3d3d3</color>
+
 </resources>
