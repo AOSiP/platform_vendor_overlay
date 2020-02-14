@@ -10,7 +10,8 @@ PRODUCT_PACKAGES += \
     PrimaryColorAOSiPBlackOverlay \
     PrimaryColorAOSiPNatureOverlay \
     PrimaryColorAOSiPOceanOverlay \
-    EmptyOverlay
+    EmptyOverlay \
+    MatchmakerOverlay
 
 # Accents
 include vendor/overlay/accents.mk
