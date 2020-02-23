@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_air_gestures_opt_in">false</bool>
+    <bool name="show_smart_always_on_display_opt_in">false</bool>
+    <bool name="show_always_on_display_opt_in">false</bool>
+    <bool name="show_pixel_personalization_illustration">false</bool>
+</resources>
