@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     LightBlue \
     LightGreen \
     Lime \
+    OhSoOrange \
     Orange \
     Pink \
     Purple \
