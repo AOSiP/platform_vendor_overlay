@@ -14,6 +14,8 @@
     <color name="quaternary_material_settings">#ff9e9e9e</color>
     <color name="secondary_material_settings">#ff313235</color>
     <color name="tertiary_material_settings">#ff616161</color>
+    <color name="primary_custom_dark_settings">#ff202124</color>
+    <color name="primary_custom_dark_settings_dark">#ff202124</color>
 
     <color name="user_icon_1">@*android:color/accent_material_dark</color>
     <color name="user_icon_2">#ff5c6bc0</color>
