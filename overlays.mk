@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorAOSiPBlackOverlay \
     PrimaryColorAOSiPNatureOverlay \
     PrimaryColorAOSiPOceanOverlay \
+    PrimaryColorAOSiPTransparentOverlay \
     EmptyOverlay \
     MatchmakerOverlay
 
