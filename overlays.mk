@@ -13,6 +13,7 @@ PRODUCT_PACKAGES += \
     PrimaryFlameOverlay \
     PrimaryNatureOverlay \
     PrimaryOceanOverlay \
+    PrimaryTransparentOverlay \
     EmptyOverlay \
     MatchmakerOverlay
 
