@@ -36,6 +36,9 @@ endif
 # LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/overlay/dictionaries
 
+# Navbar
+include vendor/overlay/navbar.mk
+
 # Plugins
 #include packages/apps/PotatoPlugins/plugins.mk
 
