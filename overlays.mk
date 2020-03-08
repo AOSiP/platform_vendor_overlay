@@ -8,6 +8,7 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlay/common
 PRODUCT_PACKAGES += \
     AOSiPOverlayStub \
     PrimaryBlackOverlay \
+    PrimaryFlameOverlay \
     PrimaryNatureOverlay \
     PrimaryOceanOverlay \
     EmptyOverlay \
