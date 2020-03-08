@@ -7,9 +7,9 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlay/common
 # Extra packages
 PRODUCT_PACKAGES += \
     AOSiPOverlayStub \
-    PrimaryColorAOSiPBlackOverlay \
-    PrimaryColorAOSiPNatureOverlay \
-    PrimaryColorAOSiPOceanOverlay \
+    PrimaryBlackOverlay \
+    PrimaryNatureOverlay \
+    PrimaryOceanOverlay \
     EmptyOverlay \
     MatchmakerOverlay
 

@@ -16,10 +16,10 @@
  */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.android.theme.color.primary.aosipblack"
+          package="com.android.theme.color.primary.nature"
           android:versionCode="1"
           android:versionName="1.0">
     <overlay android:targetPackage="android" android:category="android.theme.customization.primary_color" android:priority="2"/>
 
-    <application android:label="@string/primary_color_aosip_black" android:hasCode="false"/>
+    <application android:label="@string/primary_nature" android:hasCode="false"/>
 </manifest>
