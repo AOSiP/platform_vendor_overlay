@@ -17,7 +17,6 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Purple accent color name application label. [CHAR LIMIT=50] -->
-    <string name="primary_color_aosip_ocean" translatable="false">Ocean</string>
+    <string name="primary_black" translatable="false">BlackAF</string>
 </resources>
 
