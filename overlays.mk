@@ -30,8 +30,10 @@ include vendor/overlay/bootanimation.mk
 # Fonts
 include vendor/overlay/fonts.mk
 
+# Gapps
+ifeq ($(WITH_GAPPS),true)
+$(call inherit-product-if-exists, vendor/gapps/gapps.mk)
+endif
+
 # Sounds
 include vendor/overlay/sounds.mk
-
-# Prebuilts
-$(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
