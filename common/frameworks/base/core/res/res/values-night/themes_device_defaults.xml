@@ -16,28 +16,28 @@
 <resources>
     <style name="Theme.DeviceDefault.QuickSettings" parent="android:Theme.DeviceDefault">
         <!-- Color palette -->
-        <item name="colorPrimary">@color/primary_device_default_settings</item>
-        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
-        <item name="colorSecondary">@color/secondary_device_default_settings</item>
-        <item name="colorAccent">@color/accent_device_default_dark</item>
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
         <item name="colorError">@color/error_color_device_default_dark</item>
         <item name="colorControlNormal">?attr/textColorPrimary</item>
         <item name="alertDialogTheme">@style/Theme.DeviceDefault.Dialog.Alert</item>
         <item name="forceDarkAllowed">false</item>
 
         <!-- QS panel background is set to black in qs_background_dark!!! -->
-        <item name="colorBackgroundFloating">@color/primary_dark_device_default_settings</item>
+        <item name="colorBackgroundFloating">@color/primary_dark_material_settings</item>
 
         <!-- volume background -->
-        <item name="panelColorBackground">@color/primary_device_default_settings</item>
+        <item name="panelColorBackground">@color/primary_material_settings</item>
     </style>
 
     <style name="Theme.DeviceDefault.System" parent="Theme.DeviceDefault">
         <!-- Color palette -->
-        <item name="colorPrimary">@color/primary_device_default_settings</item>
-        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
-        <item name="colorSecondary">@color/secondary_device_default_settings</item>
-        <item name="colorAccent">@color/accent_device_default_dark</item>
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
         <item name="colorError">@color/error_color_device_default_dark</item>
         <item name="colorControlNormal">?attr/textColorPrimary</item>
         <item name="alertDialogTheme">@style/Theme.DeviceDefault.Dialog.Alert</item>
@@ -46,7 +46,7 @@
 
     <style name="Theme.DeviceDefault.Resolver" parent="Theme.DeviceDefault.ResolverCommon">
         <item name="windowLightNavigationBar">false</item>
-        <item name="colorBackgroundFloating">@color/primary_device_default_settings</item>
+        <item name="colorBackgroundFloating">@color/primary_material_settings</item>
         <item name="textColorSecondary">@android:color/resolver_text_color_secondary_dark</item>
     </style>
 
@@ -63,5 +63,42 @@
         <item name="colorListDivider">@color/list_divider_color_dark</item>
         <item name="opacityListDivider">@color/list_divider_opacity_device_default_dark</item>
         <item name="forceDarkAllowed">false</item>
+    </style>
+
+    <style name="Theme.Material.Settings.BaseDialog" parent="Theme.Material.BaseDialog">
+        <item name="colorPrimary">@color/primary_custom_dark_settings</item>
+        <item name="colorPrimaryDark">@color/primary_custom_dark_settings_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorBackground">@color/primary_custom_dark_settings_dark</item>
+    </style>
+    <style name="Theme.Material.Settings.CompactMenu" parent="Theme.Material.CompactMenu">
+        <item name="colorPrimary">@color/primary_custom_dark_settings</item>
+        <item name="colorPrimaryDark">@color/primary_custom_dark_settings_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorBackground">@color/primary_custom_dark_settings_dark</item>
+    </style>
+    <style name="Theme.Material.Settings.Dialog.BaseAlert" parent="Theme.Material.Dialog.BaseAlert">
+        <item name="colorPrimary">@color/primary_custom_dark_settings</item>
+        <item name="colorPrimaryDark">@color/primary_custom_dark_settings_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorBackground">@color/primary_custom_dark_settings_dark</item>
+    </style>
+    <style name="Theme.Material.Settings.DialogWhenLarge" parent="Theme.Material.DialogWhenLarge">
+        <item name="colorPrimary">@color/primary_custom_dark_settings</item>
+        <item name="colorPrimaryDark">@color/primary_custom_dark_settings_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorBackground">@color/primary_custom_dark_settings_dark</item>
+    </style>
+    <style name="Theme.Material.Settings.DialogWhenLarge.NoActionBar" parent="Theme.Material.DialogWhenLarge.NoActionBar">
+        <item name="colorPrimary">@color/primary_custom_dark_settings</item>
+        <item name="colorPrimaryDark">@color/primary_custom_dark_settings_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorBackground">@color/primary_custom_dark_settings_dark</item>
+    </style>
+    <style name="Theme.Material.Settings.Dialog.Presentation" parent="Theme.Material.Dialog.Presentation">
+        <item name="colorPrimary">@color/primary_custom_dark_settings</item>
+        <item name="colorPrimaryDark">@color/primary_custom_dark_settings_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorBackground">@color/primary_custom_dark_settings_dark</item>
     </style>
 </resources>
