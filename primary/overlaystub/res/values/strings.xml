@@ -29,7 +29,7 @@
     <string name="theme_title_kronicgreen">@string/theme_name_kronicgreen</string>
     <string name="theme_overlay_color_kronicgreen">com.accents.aospagreen</string>
     <string name="theme_overlay_font_kronicgreen">com.android.theme.font.googlesans</string>
-    <string name="theme_overlay_primary_kronicgreen">com.android.theme.color.primary.aosipblack</string>
+    <string name="theme_overlay_primary_kronicgreen">com.android.theme.color.primary.black</string>
     <string name="theme_overlay_icon_android_kronicgreen">com.android.theme.icon_pack.circular.android</string>
     <string name="theme_overlay_icon_launcher_kronicgreen">com.android.theme.icon_pack.circular.launcher</string>
     <string name="theme_overlay_icon_settings_kronicgreen">com.android.theme.icon_pack.circular.settings</string>
