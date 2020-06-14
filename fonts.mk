@@ -11,7 +11,8 @@ PRODUCT_PACKAGES += \
     FontOneplusSlateSource \
     FontSamsungOneSourceOverlay \
     FontFiraSansSourceOverlay \
-    FontUbuntuSourceOverlay
+    FontUbuntuSourceOverlay \
+    FontTitilliumWebSourceOverlay
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -33,6 +34,14 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/FiraSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Medium.ttf \
     $(LOCAL_PATH)/prebuilt/FiraSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-MediumItalic.ttf \
     $(LOCAL_PATH)/prebuilt/FiraSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Regular.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-Bold.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-BoldItalic.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-Italic.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-Light.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-LightItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-LightItalic.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-Regular.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-SemiBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-SemiBold.ttf \
+    $(LOCAL_PATH)/prebuilt/TitilliumWeb-SemiBoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/TitilliumWeb-SemiBoldItalic.ttf \
     $(LOCAL_PATH)/prebuilt/Ubuntu-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Bold.ttf \
     $(LOCAL_PATH)/prebuilt/Ubuntu-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-BoldItalic.ttf \
     $(LOCAL_PATH)/prebuilt/Ubuntu-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Medium.ttf \

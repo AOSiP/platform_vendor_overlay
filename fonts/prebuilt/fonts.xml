@@ -220,6 +220,29 @@
     <alias name="fantasy" to="ubuntu" />
     <alias name="ITC Stone Serif" to="ubuntu" />
 
+    <family name="titilliumweb">
+        <font weight="300" style="normal">TitilliumWeb-Light.ttf</font>
+        <font weight="300" style="italic">TitilliumWeb-LightItalic.ttf</font>
+        <font weight="400" style="italic">TitilliumWeb-Italic.ttf</font>
+        <font weight="400" style="normal">TitilliumWeb-Regular.ttf</font>
+        <font weight="600" style="normal">TitilliumWeb-SemiBold.ttf</font>
+        <font weight="600" style="italic">TitilliumWeb-SemiBoldItalic.ttf</font>
+        <font weight="700" style="normal">TitilliumWeb-Bold.ttf</font>
+        <font weight="700" style="italic">TitilliumWeb-BoldItalic.ttf</font>
+    </family>
+
+    <alias name="titilliumweb-regular" to="titilliumweb" weight="400" />
+    <alias name="titilliumweb-semi-bold" to="titilliumweb" weight="600" />
+    <alias name="titilliumweb-bold" to="titilliumweb" weight="700" />
+    <alias name="times" to="titilliumweb" />
+    <alias name="times new roman" to="titilliumweb" />
+    <alias name="palatino" to="titilliumweb" />
+    <alias name="georgia" to="titilliumweb" />
+    <alias name="baskerville" to="titilliumweb" />
+    <alias name="goudy" to="titilliumweb" />
+    <alias name="fantasy" to="titilliumweb" />
+    <alias name="ITC Stone Serif" to="titilliumweb" />
+
     <family name="monospace">
         <font weight="400" style="normal">DroidSansMono.ttf</font>
     </family>
