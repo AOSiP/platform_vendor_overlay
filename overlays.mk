@@ -30,5 +30,8 @@ ifeq ($(WITH_GAPPS),true)
 $(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
 endif
 
+# Plugins
+include packages/apps/PotatoPlugins/plugins.mk
+
 # Sounds
 include vendor/overlay/sounds.mk
