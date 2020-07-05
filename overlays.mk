@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     AOSiPOverlayStub \
     PrimaryBlackOverlay \
     PrimaryCharcoalBlackOverlay \
+    PrimaryEtherealOverlay \
     PrimaryFlameOverlay \
     PrimaryNatureOverlay \
     PrimaryOceanOverlay \
