@@ -31,5 +31,7 @@ ifeq ($(WITH_GAPPS),true)
 $(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
 endif
 
+$(call inherit-product-if-exists, vendor/google/psu/google-psu.mk)
+
 # Sounds
 include vendor/overlay/sounds.mk
