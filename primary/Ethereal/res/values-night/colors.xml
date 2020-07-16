@@ -17,11 +17,11 @@
      overlaying new theme colors. -->
 
 <resources>
-    <color name="primary_device_default_settings">#ff202028</color> <!-- colorPrimary -->
-    <color name="primary_dark_device_default_settings">#ff202028</color> <!-- colorPrimaryDark-->
-    <color name="primary_custom_dark_settings">#ff202028</color> <!-- Settings-->
-    <color name="primary_custom_dark_settings_dark">#ff202028</color> <!-- Settings Dark-->
-    <color name="material_grey_800">#ff202028</color> <!-- google elgoogleogoelo -->
-    <color name="material_grey_900">#ff202028</color> <!-- google elgoogleogoelo -->
+    <color name="primary_device_default_settings">#202028</color> <!-- colorPrimary -->
+    <color name="primary_dark_device_default_settings">#202028</color> <!-- colorPrimaryDark-->
+    <color name="primary_custom_dark_settings">#202028</color> <!-- Settings-->
+    <color name="primary_custom_dark_settings_dark">#202028</color> <!-- Settings Dark-->
+    <color name="material_grey_800">#202028</color> <!-- google elgoogleogoelo -->
+    <color name="material_grey_900">#202028</color> <!-- google elgoogleogoelo -->
     <color name="primary_device_default">@color/primary_dark_device_default_settings</color> <!-- only for ThemePicker! -->
 </resources>
