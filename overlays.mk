@@ -30,6 +30,9 @@ ifeq ($(WITH_GAPPS),true)
 $(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
 endif
 
+# LatinIME dictionaries
+PRODUCT_PACKAGE_OVERLAYS += vendor/overlay/dictionaries
+
 # Plugins
 include packages/apps/PotatoPlugins/plugins.mk
 
