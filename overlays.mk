@@ -6,17 +6,17 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlay/common
 
 # Extra packages
 PRODUCT_PACKAGES += \
+    MatchmakerOverlay \
     AOSiPOverlayStub \
     PrimaryBlackOverlay \
-    PrimaryCharcoalBlackOverlay \
-    PrimaryClearOverlay \
-    PrimaryEtherealOverlay \
-    PrimaryFlameOverlay \
-    PrimaryNatureOverlay \
-    PrimaryOceanOverlay \
-    PrimarySolarizedOverlay \
-    EmptyOverlay \
-    MatchmakerOverlay
+#    PrimaryCharcoalBlackOverlay \
+#    PrimaryClearOverlay \
+#    PrimaryEtherealOverlay \
+#    PrimaryFlameOverlay \
+#    PrimaryNatureOverlay \
+#    PrimaryOceanOverlay \
+#    PrimarySolarizedOverlay \
+#    EmptyOverlay \
 
 # Accents
 include vendor/overlay/accents.mk
@@ -28,15 +28,15 @@ include vendor/overlay/bootanimation.mk
 include vendor/overlay/fonts.mk
 
 # Gapps
-ifeq ($(WITH_GAPPS),true)
-$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
-endif
+#ifeq ($(WITH_GAPPS),true)
+#$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
+#endif
 
 # LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/overlay/dictionaries
 
 # Plugins
-include packages/apps/PotatoPlugins/plugins.mk
+#include packages/apps/PotatoPlugins/plugins.mk
 
 # Sounds
 include vendor/overlay/sounds.mk
