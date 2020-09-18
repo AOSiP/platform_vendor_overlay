@@ -22,7 +22,3 @@ AOSIP_PRODUCT_PROPERTIES += \
    ro.config.alarm_alert=Bright_morning.ogg \
    ro.config.ringtone=The_big_adventure.ogg \
    ro.config.notification_sound=Popcorn.ogg
-
-# Include Google Sounds for all
-PRODUCT_PACKAGES += \
-   SoundPickerPrebuilt
