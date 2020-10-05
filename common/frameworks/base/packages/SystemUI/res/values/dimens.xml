@@ -20,4 +20,7 @@
     <!-- Size of the edge panel arrow -->
     <dimen name="navigation_edge_panel_height">20dp</dimen>
 
+    <!--  Blur radius on status bar window and power menu  -->
+    <dimen name="max_window_blur_radius">175px</dimen>
+
 </resources>
