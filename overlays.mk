@@ -6,8 +6,9 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlay/common
 
 # Extra packages
 PRODUCT_PACKAGES += \
-    MatchmakerOverlay \
     AOSiPOverlayStub \
+    MatchmakerOverlay \
+    NavigationBarMode2ButtonOverlay \
     PrimaryBlackOverlay \
 #    PrimaryCharcoalBlackOverlay \
 #    PrimaryClearOverlay \
