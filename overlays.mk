@@ -10,13 +10,13 @@ PRODUCT_PACKAGES += \
     MatchmakerOverlay \
     NavigationBarMode2ButtonOverlay \
     PrimaryBlackOverlay \
-#    PrimaryCharcoalBlackOverlay \
-#    PrimaryClearOverlay \
-#    PrimaryEtherealOverlay \
-#    PrimaryFlameOverlay \
-#    PrimaryNatureOverlay \
-#    PrimaryOceanOverlay \
-#    PrimarySolarizedOverlay \
+    PrimaryCharcoalBlackOverlay \
+    PrimaryClearOverlay \
+    PrimaryEtherealOverlay \
+    PrimaryFlameOverlay \
+    PrimaryNatureOverlay \
+    PrimaryOceanOverlay \
+    PrimarySolarizedOverlay \
 #    EmptyOverlay \
 
 # Accents
