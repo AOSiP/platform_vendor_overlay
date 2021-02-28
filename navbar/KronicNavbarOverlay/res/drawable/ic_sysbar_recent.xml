@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 AOSiP
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="38dp"
+    android:height="38dp"
+    android:viewportWidth="26"
+    android:viewportHeight="26">
+  <path
+      android:pathData="M26,17.5L26,17.5l-0.8,0.1v-0.1c0,-1.2 -1,-2.3 -2.2,-2.3l-2.2,0h0v2.3H20V8.6h0.8v5.8h0c1.9,0 3.5,-1.6 3.5,-3.6v-0.1H25v0.1c0,1.5 -0.7,2.8 -1.9,3.6C24.7,14.6 26,15.9 26,17.5z"
+      android:fillColor="#000000"/>
+  <path
+      android:pathData="M0.8,13.9c0,1.5 1.2,2.8 2.8,2.8v0.8c-1.1,0 -2.1,-0.5 -2.8,-1.3C0.3,15.6 0,14.8 0,13.9V8.4h0.8v2h2.8v0.8H0.8V13.9z"
+      android:fillColor="#000000"/>
+  <path
+      android:pathData="M19.2,15.6c0,0.4 -0.1,0.8 -0.4,1.1c-0.1,0.1 -0.1,0.2 -0.2,0.2c-0.4,0.3 -0.8,0.6 -1.4,0.6h-5v-0.8h5c0.6,0 1.1,-0.5 1.1,-1.1c0,-0.6 -0.5,-1.1 -1.1,-1.1h-3.1c-0.6,0 -1.2,-0.3 -1.6,-0.8c-0.2,-0.3 -0.4,-0.7 -0.4,-1.1c0,-0.4 0.1,-0.8 0.4,-1.1c0.1,-0.1 0.1,-0.2 0.2,-0.2c0.4,-0.3 0.8,-0.6 1.4,-0.6h5v0.8h-5c-0.6,0 -1.1,0.5 -1.1,1.1c0,0.6 0.5,1.1 1.1,1.1h3.1c0.6,0 1.2,0.3 1.6,0.8C19,14.8 19.2,15.2 19.2,15.6z"
+      android:fillColor="#000000"/>
+  <path
+      android:pathData="M10.6,10.6v1.3C10,11.1 9,10.6 7.9,10.6c-1.9,0 -3.5,1.6 -3.5,3.5s1.6,3.5 3.5,3.5c1.1,0 2.1,-0.5 2.7,-1.3v1.3h0.8v-7H10.6zM7.9,16.8c-1.5,0 -2.7,-1.2 -2.7,-2.7s1.2,-2.7 2.7,-2.7s2.7,1.2 2.7,2.7S9.4,16.8 7.9,16.8z"
+      android:fillColor="#000000"/>
+</vector>
