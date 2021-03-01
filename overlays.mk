@@ -41,7 +41,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/overlay/dictionaries
 include vendor/overlay/navbar.mk
 
 # Plugins
-#include packages/apps/PotatoPlugins/plugins.mk
+include packages/apps/Plugins/plugins.mk
 
 # Sounds
 include vendor/overlay/sounds.mk
