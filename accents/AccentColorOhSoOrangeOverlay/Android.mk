@@ -3,8 +3,8 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := OhSoOrange
-LOCAL_RRO_THEME := OhSoOrange
+LOCAL_PACKAGE_NAME := AccentColorOhSoOrangeOverlay
+LOCAL_RRO_THEME := AccentColorOhSoOrange
 LOCAL_SDK_VERSION := current
 LOCAL_CERTIFICATE := platform
 LOCAL_PRODUCT_MODULE := true
